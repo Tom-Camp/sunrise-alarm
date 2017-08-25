@@ -1,8 +1,9 @@
 # Sunrise Alarm Clock
-I've been using this sunrise alarm clock for a couple of years now and I have forgotten where the _ledStrip_ code came from, but I certainly do appreciate it. I will provide more info when I get my head out of my ass.
+I've been using this sunrise alarm clock for a couple of years now and I found the code for the _ledStrip_ from [Ed Dawson's post here](https://s3-ap-southeast-2.amazonaws.com/sydneycontent/LED_Sunrise_Clock_with_Raspberry_Pi.html).
 
 ## Author
 * Tom Camp
 
 ## Acknowledgments
-* Again, once I recall where this code came from, then I will put it here.
+* Ed Dawson provided the original code.
+* Adafruit for providing all of the ins and outs.
